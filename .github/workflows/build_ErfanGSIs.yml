@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://doc-10-4k-docs.googleusercontent.com/docs/securesc/6164euq3etdgu2ai3a0567tk7qrfr4pu/ajmffcb6nm55ll0f21invfj5rn0inkmr/1607677725000/16610198250999279709/03632751476211608539/1MuhEBLbzpDSpwJLz7sNLlT7M0eGqn_ER?e=download&authuser=0
-  ROM_NAME: Generic Pixel
+  ROM_URL: https://dwnld.aicp-rom.com/device/lavender/WEEKLY/aicp_lavender_q-15.0-WEEKLY-20201209.zip
+  ROM_NAME: Generic
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Posp-11
+  ZIP_NAME: Aicp
 jobs:
   build:
     runs-on: ubuntu-latest
