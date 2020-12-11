@@ -5,11 +5,11 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://download.meizu.com/Firmware/Flyme/16s/8.20.11.10/cn_daily/20201110003048/9e816b1b/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://doc-10-4k-docs.googleusercontent.com/docs/securesc/6164euq3etdgu2ai3a0567tk7qrfr4pu/ajmffcb6nm55ll0f21invfj5rn0inkmr/1607677725000/16610198250999279709/03632751476211608539/1MuhEBLbzpDSpwJLz7sNLlT7M0eGqn_ER?e=download&authuser=0
+  ROM_NAME: Generic Pixel
   TZ: Asia/Kolkata
   MIR: wet
-  ZIP_NAME: Flyme-8
+  ZIP_NAME: Posp-11
 jobs:
   build:
     runs-on: ubuntu-latest
